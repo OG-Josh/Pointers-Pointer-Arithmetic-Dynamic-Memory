@@ -1,0 +1,106 @@
+Script started on Tue 05 Mar 2019 12:42:19 PM PST
+]0;cs1c@cs1c-VirtualBox ~/Desktop/HW08[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/HW08 $[00m date
+Tue Mar  5 12:42:21 PST 2019
+]0;cs1c@cs1c-VirtualBox ~/Desktop/HW08[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/HW08 $[00m ls -l
+total 24
+-rw-rw-r-- 1 cs1c cs1c 16614 Mar  5 12:38 hw08.cpp
+-rw-rw-r-- 1 cs1c cs1c     0 Mar  5 12:42 hw08.scr
+-rw-rw-r-- 1 cs1c cs1c   216 Mar  5 08:32 Makefile
+]0;cs1c@cs1c-VirtualBox ~/Desktop/HW08[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/HW08 $[00m makea ll[K[K[K[K[K a[K[Ke all
+g++ -g hw08.cpp -o hw08
+]0;cs1c@cs1c-VirtualBox ~/Desktop/HW08[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/HW08 $[00m ls -l
+total 52
+-rwxrwxr-x 1 cs1c cs1c 28592 Mar  5 12:42 [0m[01;32mhw08[0m
+-rw-rw-r-- 1 cs1c cs1c 16614 Mar  5 12:38 hw08.cpp
+-rw-rw-r-- 1 cs1c cs1c     0 Mar  5 12:42 hw08.scr
+-rw-rw-r-- 1 cs1c cs1c   216 Mar  5 08:32 Makefile
+]0;cs1c@cs1c-VirtualBox ~/Desktop/HW08[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/HW08 $[00m ./hw08
+
+************************************** 
+*           Running HW08             * 
+*      Programmed by First Last      * 
+*      CS1C Date & Time              * 
+************************************** 
+
+increment pointer vs reference
+
+100
+105
+100
+25
+26
+100
+101
+
+print array of doubles forward and backward
+
+0x7ffd4d552af0
+0x7ffd4d552af8
+0x7ffd4d552b00
+0x7ffd4d552b08
+0x7ffd4d552b10
+0x7ffd4d552b18
+0x7ffd4d552b20
+0x7ffd4d552b28
+0x7ffd4d552b30
+0x7ffd4d552b38
+
+0x7ffd4d552b38
+0x7ffd4d552b30
+0x7ffd4d552b28
+0x7ffd4d552b20
+0x7ffd4d552b18
+0x7ffd4d552b10
+0x7ffd4d552b08
+0x7ffd4d552b00
+0x7ffd4d552af8
+0x7ffd4d552af0
+
+
+print 2d array of doubles
+
+1 2 3 4 5 
+6 7 8 9 10 
+11 12 13 14 15 
+16 17 18 19 20 
+21 22 23 24 25 
+
+1 2 3 4 5 
+6 7 8 9 10 
+11 12 13 14 15 
+16 17 18 19 20 
+21 22 23 24 25 
+
+
+ri, ri2, ri3 before delete
+
+100
+200
+0x1154050
+
+ri, ri2, ri3 after delete
+
+0
+18169888
+0x1154050
+
+1830783864 32745 1830783864 
+0 0 0 
+0 0 0 
+
+1830783864 32745 1830783864 
+0 0 0 
+0 0 0 
+
+]0;cs1c@cs1c-VirtualBox ~/Desktop/HW08[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/HW08 $[00m quit
+No command 'quit' found, did you mean:
+ Command 'quiz' from package 'bsdgames' (universe)
+ Command 'quilt' from package 'quilt' (universe)
+ Command 'luit' from package 'x11-utils' (main)
+ Command 'qgit' from package 'qgit' (universe)
+ Command 'quot' from package 'quota' (main)
+quit: command not found
+]0;cs1c@cs1c-VirtualBox ~/Desktop/HW08[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/HW08 $[00m stop[K[K[K[Kexit
+exit
+
+Script done on Tue 05 Mar 2019 12:42:45 PM PST
